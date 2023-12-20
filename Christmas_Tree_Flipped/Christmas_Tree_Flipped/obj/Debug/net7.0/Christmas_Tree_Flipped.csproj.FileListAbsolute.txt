@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/bin/Debug/net7.0/Christmas_Tree_Flipped
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/bin/Debug/net7.0/Christmas_Tree_Flipped.deps.json
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/bin/Debug/net7.0/Christmas_Tree_Flipped.runtimeconfig.json
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/bin/Debug/net7.0/Christmas_Tree_Flipped.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/bin/Debug/net7.0/Christmas_Tree_Flipped.pdb
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.AssemblyInfo.cs
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/refint/Christmas_Tree_Flipped.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.pdb
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/Christmas_Tree_Flipped.genruntimeconfig.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree_Flipped/Christmas_Tree_Flipped/obj/Debug/net7.0/ref/Christmas_Tree_Flipped.dll
